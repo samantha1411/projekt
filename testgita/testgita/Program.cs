@@ -15,6 +15,9 @@ namespace testgita
             var c = Console.ReadLine();
             Console.WriteLine("Hello World!");
             var d = Console.ReadLine();
+            Console.WriteLine("Hello World!");
+            var e = Console.ReadLine();
+
 
         }
     }
